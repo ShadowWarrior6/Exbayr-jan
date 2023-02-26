@@ -1,0 +1,15 @@
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.csproj.AssemblyReference.cache
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.AssemblyInfoInputs.cache
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.AssemblyInfo.cs
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.csproj.CoreCompileInputs.cache
+C:\C#\Новая папка (3)\Examples\Example006\bin\Debug\net6.0\Example006.exe
+C:\C#\Новая папка (3)\Examples\Example006\bin\Debug\net6.0\Example006.deps.json
+C:\C#\Новая папка (3)\Examples\Example006\bin\Debug\net6.0\Example006.runtimeconfig.json
+C:\C#\Новая папка (3)\Examples\Example006\bin\Debug\net6.0\Example006.dll
+C:\C#\Новая папка (3)\Examples\Example006\bin\Debug\net6.0\Example006.pdb
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.dll
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\refint\Example006.dll
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.pdb
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\Example006.genruntimeconfig.cache
+C:\C#\Новая папка (3)\Examples\Example006\obj\Debug\net6.0\ref\Example006.dll
