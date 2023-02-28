@@ -1,0 +1,15 @@
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\bin\Debug\net6.0\Example008_Numbers.exe
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\bin\Debug\net6.0\Example008_Numbers.deps.json
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\bin\Debug\net6.0\Example008_Numbers.runtimeconfig.json
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\bin\Debug\net6.0\Example008_Numbers.dll
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\bin\Debug\net6.0\Example008_Numbers.pdb
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.csproj.AssemblyReference.cache
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.AssemblyInfoInputs.cache
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.AssemblyInfo.cs
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.csproj.CoreCompileInputs.cache
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.dll
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\refint\Example008_Numbers.dll
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.pdb
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\Example008_Numbers.genruntimeconfig.cache
+C:\C#\Новая папка (3)\Examples\Example008_Numbers\obj\Debug\net6.0\ref\Example008_Numbers.dll
