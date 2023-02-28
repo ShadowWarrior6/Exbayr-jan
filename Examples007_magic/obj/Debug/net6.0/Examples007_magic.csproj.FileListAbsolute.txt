@@ -1,0 +1,15 @@
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.csproj.AssemblyReference.cache
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.AssemblyInfoInputs.cache
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.AssemblyInfo.cs
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.csproj.CoreCompileInputs.cache
+C:\C#\Новая папка (3)\Examples\Examples007_magic\bin\Debug\net6.0\Examples007_magic.exe
+C:\C#\Новая папка (3)\Examples\Examples007_magic\bin\Debug\net6.0\Examples007_magic.deps.json
+C:\C#\Новая папка (3)\Examples\Examples007_magic\bin\Debug\net6.0\Examples007_magic.runtimeconfig.json
+C:\C#\Новая папка (3)\Examples\Examples007_magic\bin\Debug\net6.0\Examples007_magic.dll
+C:\C#\Новая папка (3)\Examples\Examples007_magic\bin\Debug\net6.0\Examples007_magic.pdb
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.dll
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\refint\Examples007_magic.dll
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.pdb
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\Examples007_magic.genruntimeconfig.cache
+C:\C#\Новая папка (3)\Examples\Examples007_magic\obj\Debug\net6.0\ref\Examples007_magic.dll
